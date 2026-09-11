@@ -3,7 +3,7 @@
 ## 1. Get an Anthropic API key
 Go to console.anthropic.com → create an API key. Add a small amount of
 billing credit (this is pay-as-you-go, no monthly fee — a typical Q&A
-exchange costs a fraction of a cent).
+exchange costs a fraction of a cent). 
 
 ## 2. Edit the knowledge base
 Open `api/chat.js` and replace every `[REPLACE]` line in `KNOWLEDGE_BASE`
